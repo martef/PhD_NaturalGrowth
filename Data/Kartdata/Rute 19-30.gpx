@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 7.40 using Garmin GPSMAP 65s" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<bounds minlat="63.40480400" minlon="10.11421100" maxlat="63.40588200" maxlon="10.12325800"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2022-08-09T13:22:35.501Z</time>
+</extensions>
+</metadata>
+<wpt lat="63.40480800" lon="10.11764800">
+<ele>136.461</ele>
+<time>2021-05-19T08:17:09Z</time>
+<name>Rute19</name>
+<cmt>Rute19</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute19</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40507500" lon="10.11750100">
+<ele>133.867</ele>
+<time>2021-05-19T09:30:07Z</time>
+<name>Rute20</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute20</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40502000" lon="10.11738200">
+<ele>134.922</ele>
+<time>2021-05-19T10:36:19Z</time>
+<name>Rute21</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute21</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40480400" lon="10.11763300">
+<ele>132.570</ele>
+<time>2021-05-19T11:30:55Z</time>
+<name>Rute22</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute22</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40488900" lon="10.11748100">
+<ele>130.340</ele>
+<time>2021-05-19T12:32:17Z</time>
+<name>Rute23</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute23</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40550700" lon="10.11482600">
+<ele>127.737</ele>
+<time>2021-05-19T13:34:10Z</time>
+<name>Rute24</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute24</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40560400" lon="10.11455200">
+<ele>180.232</ele>
+<time>2021-05-21T08:47:02Z</time>
+<name>Rute25</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute25</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40556400" lon="10.11434000">
+<ele>182.686</ele>
+<time>2021-05-21T09:45:44Z</time>
+<name>Rute26</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute26</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40569000" lon="10.11421100">
+<ele>184.673</ele>
+<time>2021-05-21T11:54:50Z</time>
+<name>Rute28</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute28</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40581900" lon="10.12325800">
+<ele>188.760</ele>
+<time>2021-05-21T13:15:03Z</time>
+<name>Rute29</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute29</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40588200" lon="10.12320000">
+<ele>194.554</ele>
+<time>2021-05-21T14:09:39Z</time>
+<name>Rute30</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute30</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40574900" lon="10.11421700">
+<ele>75.821</ele>
+<time>2021-10-13T11:46:30Z</time>
+<name>Rute27</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Rute27</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>

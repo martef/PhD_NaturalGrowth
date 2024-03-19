@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 8.25 using Garmin GPSMAP 65s" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<bounds minlat="63.40105200" minlon="10.10380400" maxlat="63.40557300" maxlon="10.11848300"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2022-09-30T13:27:49.271Z</time>
+</extensions>
+</metadata>
+<wpt lat="63.40363200" lon="10.10380400">
+<ele>47.241</ele>
+<time>2022-05-23T12:48:57Z</time>
+<name>0054</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0054</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40352900" lon="10.10390600">
+<ele>97.367</ele>
+<time>2022-05-23T12:52:06Z</time>
+<name>0055</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0055</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40340100" lon="10.10414400">
+<ele>44.433</ele>
+<time>2022-05-23T12:54:45Z</time>
+<name>0056</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0056</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40325500" lon="10.10438100">
+<ele>45.702</ele>
+<time>2022-05-23T12:59:08Z</time>
+<name>0057</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0057</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40336300" lon="10.10517800">
+<ele>45.394</ele>
+<time>2022-05-23T13:02:29Z</time>
+<name>0058</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0058</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40352200" lon="10.10494600">
+<ele>45.711</ele>
+<time>2022-05-23T13:08:47Z</time>
+<name>0059</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0059</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40353900" lon="10.10498500">
+<ele>45.711</ele>
+<time>2022-05-23T13:19:39Z</time>
+<name>0060</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0060</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40352900" lon="10.10502200">
+<ele>97.027</ele>
+<time>2022-05-23T13:25:48Z</time>
+<name>0061</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0061</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40308200" lon="10.10433900">
+<ele>79.162</ele>
+<time>2022-05-25T10:29:28Z</time>
+<name>0062</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0062</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40283200" lon="10.10481300">
+<ele>80.263</ele>
+<time>2022-05-25T10:33:36Z</time>
+<name>0063</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0063</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40271000" lon="10.10502000">
+<ele>78.966</ele>
+<time>2022-05-25T10:35:16Z</time>
+<name>0064</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0064</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40266400" lon="10.10511000">
+<ele>77.211</ele>
+<time>2022-05-25T10:36:07Z</time>
+<name>0065</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0065</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40262700" lon="10.10528800">
+<ele>78.686</ele>
+<time>2022-05-25T10:37:41Z</time>
+<name>0066</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0066</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40240300" lon="10.10584400">
+<ele>79.721</ele>
+<time>2022-05-25T10:40:32Z</time>
+<name>0067</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0067</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40220700" lon="10.10628600">
+<ele>79.889</ele>
+<time>2022-05-25T10:44:07Z</time>
+<name>0068</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0068</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40191600" lon="10.10679200">
+<ele>78.648</ele>
+<time>2022-05-25T10:46:52Z</time>
+<name>0069</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0069</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40163000" lon="10.10732900">
+<ele>79.992</ele>
+<time>2022-05-25T10:50:13Z</time>
+<name>0070</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0070</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40118400" lon="10.10783200">
+<ele>80.347</ele>
+<time>2022-05-25T10:55:04Z</time>
+<name>0071</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0071</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40105200" lon="10.10812100">
+<ele>78.602</ele>
+<time>2022-05-25T10:59:17Z</time>
+<name>0072</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0072</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40120400" lon="10.10889900">
+<ele>76.848</ele>
+<time>2022-05-25T11:02:43Z</time>
+<name>0073</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0073</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40154600" lon="10.10913200">
+<ele>76.950</ele>
+<time>2022-05-25T11:05:11Z</time>
+<name>0074</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0074</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40189800" lon="10.10880800">
+<ele>75.989</ele>
+<time>2022-05-25T11:07:39Z</time>
+<name>0075</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0075</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40224900" lon="10.10950400">
+<ele>75.196</ele>
+<time>2022-05-25T11:11:14Z</time>
+<name>0076</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0076</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40256300" lon="10.11018300">
+<ele>75.980</ele>
+<time>2022-05-25T11:13:38Z</time>
+<name>0077</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0077</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40287600" lon="10.11091200">
+<ele>75.355</ele>
+<time>2022-05-25T11:15:50Z</time>
+<name>0078</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0078</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40318900" lon="10.11167600">
+<ele>71.921</ele>
+<time>2022-05-25T11:22:04Z</time>
+<name>0079</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0079</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40351300" lon="10.11213500">
+<ele>72.229</ele>
+<time>2022-05-25T11:24:42Z</time>
+<name>0080</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0080</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40372800" lon="10.11278400">
+<ele>70.484</ele>
+<time>2022-05-25T11:28:06Z</time>
+<name>0081</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0081</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40400300" lon="10.11306200">
+<ele>70.661</ele>
+<time>2022-05-25T11:31:17Z</time>
+<name>0082</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0082</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40420200" lon="10.11381700">
+<ele>65.520</ele>
+<time>2022-05-25T11:33:49Z</time>
+<name>0083</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0083</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40446100" lon="10.11453200">
+<ele>70.055</ele>
+<time>2022-05-25T11:41:07Z</time>
+<name>0084</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0084</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40467300" lon="10.11542700">
+<ele>69.514</ele>
+<time>2022-05-25T11:46:29Z</time>
+<name>0085</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0085</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40487100" lon="10.11677700">
+<ele>66.425</ele>
+<time>2022-05-25T11:56:51Z</time>
+<name>0086</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0086</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40474100" lon="10.11761000">
+<ele>67.246</ele>
+<time>2022-05-25T12:01:10Z</time>
+<name>0087</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0087</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40497600" lon="10.11848300">
+<ele>66.602</ele>
+<time>2022-05-25T12:05:59Z</time>
+<name>0088</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0088</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40542900" lon="10.11813000">
+<ele>67.013</ele>
+<time>2022-05-25T12:15:54Z</time>
+<name>0089</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0089</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40557300" lon="10.11715400">
+<ele>65.651</ele>
+<time>2022-05-25T12:20:49Z</time>
+<name>0090</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0090</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40546400" lon="10.11574600">
+<ele>65.707</ele>
+<time>2022-05-25T12:25:20Z</time>
+<name>0091</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0091</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40529900" lon="10.11413300">
+<ele>64.251</ele>
+<time>2022-05-25T12:35:07Z</time>
+<name>0092</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0092</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40552900" lon="10.11260900">
+<ele>63.075</ele>
+<time>2022-05-25T12:59:44Z</time>
+<name>0093</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0093</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40500700" lon="10.11164400">
+<ele>61.424</ele>
+<time>2022-05-25T13:07:08Z</time>
+<name>0094</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>0094</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>

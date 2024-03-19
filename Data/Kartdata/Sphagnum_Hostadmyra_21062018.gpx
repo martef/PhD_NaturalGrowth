@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 6.11 using Garmin eTrex 10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="63.39940800" minlon="10.10002700" maxlat="63.40570600" maxlon="10.11272500"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-07-18T08:17:51.575Z</time>
+</extensions>
+</metadata>
+<wpt lat="63.40192800" lon="10.10631300">
+<ele>108.737</ele>
+<time>2018-06-21T08:33:40Z</time>
+<name>002</name>
+<cmt>TENELLUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>002</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40256000" lon="10.10739000">
+<ele>110.848</ele>
+<time>2018-06-21T08:42:54Z</time>
+<name>003</name>
+<cmt>PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>003</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40260900" lon="10.10754300">
+<ele>108.899</ele>
+<time>2018-06-21T08:45:26Z</time>
+<name>004</name>
+<cmt>BALTICUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>004</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40268700" lon="10.10767500">
+<ele>109.481</ele>
+<time>2018-06-21T08:48:03Z</time>
+<name>005</name>
+<cmt>PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40279800" lon="10.10832600">
+<ele>110.815</ele>
+<time>2018-06-21T08:51:27Z</time>
+<name>006</name>
+<cmt>RUBELLUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>006</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40279600" lon="10.10833100">
+<ele>110.056</ele>
+<time>2018-06-21T08:53:27Z</time>
+<name>007</name>
+<cmt>BALTICUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>007</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40266300" lon="10.10863900">
+<ele>108.786</ele>
+<time>2018-06-21T08:54:54Z</time>
+<name>008</name>
+<cmt>PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>008</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40291400" lon="10.10847400">
+<ele>109.273</ele>
+<time>2018-06-21T08:57:38Z</time>
+<name>009</name>
+<cmt>CUSPIDATUM OG LINDBERGII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>009</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40292300" lon="10.10845100">
+<ele>108.999</ele>
+<time>2018-06-21T08:59:39Z</time>
+<name>010</name>
+<cmt>FUSCUM!</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>010</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40306500" lon="10.10838700">
+<ele>109.152</ele>
+<time>2018-06-21T09:01:53Z</time>
+<name>011</name>
+<cmt>LINDBERGII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>011</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40318600" lon="10.10833700">
+<ele>109.620</ele>
+<time>2018-06-21T09:03:00Z</time>
+<name>012</name>
+<cmt>MAJUS</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>012</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40318700" lon="10.10834000">
+<ele>108.126</ele>
+<time>2018-06-21T09:04:20Z</time>
+<name>013</name>
+<cmt>MEDIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>013</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40326700" lon="10.10843900">
+<ele>109.978</ele>
+<time>2018-06-21T09:06:49Z</time>
+<name>014</name>
+<cmt>MEDIUM!</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>014</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40326400" lon="10.10843200">
+<ele>109.379</ele>
+<time>2018-06-21T09:07:21Z</time>
+<name>015</name>
+<cmt>EUSTINII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>015</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40333700" lon="10.10895800">
+<ele>108.542</ele>
+<time>2018-06-21T09:12:33Z</time>
+<name>016</name>
+<cmt>CUSPIDATUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>016</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40367200" lon="10.10818100">
+<ele>108.332</ele>
+<time>2018-06-21T09:18:34Z</time>
+<name>017</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>017</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40367200" lon="10.10818100">
+<ele>108.333</ele>
+<time>2018-06-21T09:18:35Z</time>
+<name>018</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>018</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40365200" lon="10.10792600">
+<ele>108.868</ele>
+<time>2018-06-21T09:42:01Z</time>
+<name>019</name>
+<cmt>RUBELLUM OG MEDIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>019</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40376000" lon="10.10730600">
+<ele>108.290</ele>
+<time>2018-06-21T09:45:44Z</time>
+<name>020</name>
+<cmt>EUSTINII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>020</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40519100" lon="10.10699600">
+<ele>110.325</ele>
+<time>2018-06-21T09:55:32Z</time>
+<name>021</name>
+<cmt>MEDIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>021</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40531300" lon="10.10717700">
+<ele>110.045</ele>
+<time>2018-06-21T09:56:35Z</time>
+<name>022</name>
+<cmt>CUSPIDATUM OG MAJUS</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>022</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40539900" lon="10.10732200">
+<ele>108.955</ele>
+<time>2018-06-21T09:59:52Z</time>
+<name>023</name>
+<cmt>MAJUS</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>023</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40545600" lon="10.10735200">
+<ele>109.500</ele>
+<time>2018-06-21T10:01:45Z</time>
+<name>024</name>
+<cmt>MEDIUM OG PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>024</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40546500" lon="10.10766900">
+<ele>108.354</ele>
+<time>2018-06-21T10:03:02Z</time>
+<name>025</name>
+<cmt>MAJUS</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>025</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40551400" lon="10.10792300">
+<ele>110.223</ele>
+<time>2018-06-21T10:05:35Z</time>
+<name>026</name>
+<cmt>MEDIUM!</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>026</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40570100" lon="10.10848000">
+<ele>108.487</ele>
+<time>2018-06-21T10:12:11Z</time>
+<name>027</name>
+<cmt>LINDBERGII OG PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>027</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40570600" lon="10.10944000">
+<ele>109.119</ele>
+<time>2018-06-21T10:15:05Z</time>
+<name>028</name>
+<cmt>MAJUS OG CUSPIDATUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>028</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40536100" lon="10.11183300">
+<ele>109.404</ele>
+<time>2018-06-21T10:21:36Z</time>
+<name>029</name>
+<cmt>MEDIUM PAPILLOSUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>029</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40524800" lon="10.11195700">
+<ele>109.705</ele>
+<time>2018-06-21T10:27:14Z</time>
+<name>030</name>
+<cmt>LINDBERGII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>030</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40520600" lon="10.11234900">
+<ele>107.689</ele>
+<time>2018-06-21T10:28:10Z</time>
+<name>031</name>
+<cmt>CUSPIDATUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>031</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40494100" lon="10.11272500">
+<ele>109.663</ele>
+<time>2018-06-21T10:29:43Z</time>
+<name>032</name>
+<cmt>MEDIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>032</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40447000" lon="10.11258000">
+<ele>106.869</ele>
+<time>2018-06-21T10:32:22Z</time>
+<name>033</name>
+<cmt>MAJUS</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>033</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40430000" lon="10.11239200">
+<ele>108.542</ele>
+<time>2018-06-21T10:33:46Z</time>
+<name>034</name>
+<cmt>EUSTINII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>034</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40406800" lon="10.11209200">
+<ele>107.305</ele>
+<time>2018-06-21T10:35:06Z</time>
+<name>035</name>
+<cmt>MAJUS PAPILLOSUM!</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>035</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40406600" lon="10.11207800">
+<ele>106.907</ele>
+<time>2018-06-21T10:35:55Z</time>
+<name>036</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>036</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40406400" lon="10.11208000">
+<ele>107.253</ele>
+<time>2018-06-21T10:36:00Z</time>
+<name>037</name>
+<cmt>MEDIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>037</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40325500" lon="10.11096900">
+<ele>112.090</ele>
+<time>2018-06-21T10:39:50Z</time>
+<name>038</name>
+<cmt>TENELLUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>038</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40315300" lon="10.11079000">
+<ele>110.762</ele>
+<time>2018-06-21T10:40:26Z</time>
+<name>039</name>
+<cmt>MAJUS!!</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>039</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40302200" lon="10.11058800">
+<ele>109.948</ele>
+<time>2018-06-21T10:43:10Z</time>
+<name>040</name>
+<cmt>BEOTUC</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>040</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40024000" lon="10.10181100">
+<ele>110.297</ele>
+<time>2018-06-21T11:02:44Z</time>
+<name>041</name>
+<cmt>MAJUS CUSPIDATUM LINDBERGII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>041</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.39944100" lon="10.10002700">
+<ele>115.261</ele>
+<time>2018-06-21T11:11:36Z</time>
+<name>042</name>
+<cmt>CAPILLIFOLIUM</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>042</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.39940800" lon="10.10010800">
+<ele>114.222</ele>
+<time>2018-06-21T11:12:29Z</time>
+<name>043</name>
+<cmt>RUSSOWII</cmt>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>043</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 8.40 using Garmin GPSMAP 66s" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<bounds minlat="63.40185500" minlon="10.10143600" maxlat="63.40478800" maxlon="10.11060300"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2023-08-29T12:36:40.840Z</time>
+</extensions>
+</metadata>
+<wpt lat="63.40419600" lon="10.10453300">
+<ele>293.469</ele>
+<time>2020-06-30T07:50:00Z</time>
+<name>NG1</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40452200" lon="10.10437800">
+<ele>95.422</ele>
+<time>2020-06-30T07:55:32Z</time>
+<name>NG5</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG5</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40242000" lon="10.10143600">
+<ele>298.190</ele>
+<time>2020-06-30T07:56:18Z</time>
+<name>NG5 riktig</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG5 riktig</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40392500" lon="10.10538600">
+<ele>295.596</ele>
+<time>2020-06-30T08:06:47Z</time>
+<name>NG1-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG1-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40357700" lon="10.10468300">
+<ele>295.839</ele>
+<time>2020-06-30T10:41:16Z</time>
+<name>NG2-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG2-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40385000" lon="10.10387500">
+<ele>295.820</ele>
+<time>2020-06-30T10:44:08Z</time>
+<name>NG2</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40347900" lon="10.10324900">
+<ele>292.135</ele>
+<time>2020-06-30T12:33:01Z</time>
+<name>NG3</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG3</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40348500" lon="10.10325100">
+<ele>293.170</ele>
+<time>2020-06-30T12:39:11Z</time>
+<name>NG3 ny</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG3 ny</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40313300" lon="10.10266300">
+<ele>292.387</ele>
+<time>2020-06-30T14:55:27Z</time>
+<name>NG4</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40283400" lon="10.10332900">
+<ele>292.862</ele>
+<time>2020-06-30T16:13:52Z</time>
+<name>NG4-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG4-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40277100" lon="10.10198100">
+<ele>291.164</ele>
+<time>2020-06-30T16:33:02Z</time>
+<name>NG5 ny</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG5 ny</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40322800" lon="10.10410200">
+<ele>294.533</ele>
+<time>2020-06-30T17:26:58Z</time>
+<name>NG3-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG3-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40287100" lon="10.10552100">
+<ele>239.454</ele>
+<time>2020-07-02T06:30:22Z</time>
+<name>GG4</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GG4</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40257900" lon="10.10625400">
+<ele>242.262</ele>
+<time>2020-07-02T08:01:41Z</time>
+<name>GG4-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GG4-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40478800" lon="10.10975200">
+<ele>236.738</ele>
+<time>2020-07-02T10:16:06Z</time>
+<name>GG5</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GG5</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40454400" lon="10.11060300">
+<ele>238.082</ele>
+<time>2020-07-02T10:18:50Z</time>
+<name>GG5-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>GG5-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40302100" lon="10.10739400">
+<ele>97.195</ele>
+<time>2020-09-28T10:59:30Z</time>
+<name>Gg3-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Gg3-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40248000" lon="10.10279600">
+<ele>200.983</ele>
+<time>2020-10-06T10:46:30Z</time>
+<name>NG5-ny-50</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>NG5-ny-50</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40185500" lon="10.10394300">
+<ele>20.238</ele>
+<time>2021-06-04T11:55:20Z</time>
+<name>Kontroll</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Kontroll</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="63.40240600" lon="10.10294100">
+<ele>201.086</ele>
+<time>2020-10-06T10:47:49Z</time>
+<name>Kontroll</name>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
+<label_text>Kontroll</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>
